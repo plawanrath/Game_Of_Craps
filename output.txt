@@ -1,0 +1,40 @@
+
+Round 1
+
+
+Strategy Number_of_Games End_Balance
+1		10		1000
+2		10		1800
+3		9		0
+
+Round 2
+
+
+Strategy Number_of_Games End_Balance
+1		10		1200
+2		10		1200
+3		10		1300
+
+Round 3
+
+
+Strategy Number_of_Games End_Balance
+1		10		300
+2		10		0
+3		10		1500
+
+Round 4
+
+
+Strategy Number_of_Games End_Balance
+1		10		700
+2		10		1200
+3		10		1700
+
+Round 5
+
+
+Strategy Number_of_Games End_Balance
+1		10		700
+2		10		1100
+3		10		1500
